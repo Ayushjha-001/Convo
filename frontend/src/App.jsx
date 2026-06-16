@@ -1,6 +1,6 @@
 import './App.css'
 import Home from './pages/Home/Home'
-import Login from './pages/Login/Login'
+import Login from './pages/login/Login'
 import Signup from './pages/Signup/Signup'
 import {Route,Routes} from "react-router-dom"
 import {Toaster} from "react-hot-toast"
