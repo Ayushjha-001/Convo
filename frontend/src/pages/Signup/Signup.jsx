@@ -23,7 +23,7 @@ const handleCheckboxChange=(gender)=>{
 }
 	return (
 		<div className='flex flex-col items-center justify-center min-w-96 mx-auto'>
-			<div className='w-full p-6 rounded-lg shadow-md bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0'>
+			<div className='"w-full max-w-md p-8 rounded-xl shadow-2xl border border-white/20 bg-white/10 backdrop-blur-lg'>
 				<h1 className='text-3xl font-semibold text-center text-gray-300'>
 					Sign Up <span className='text-yellow-500'> Convo</span>
 				</h1>
